@@ -28,6 +28,7 @@ A Winter/Christmas-themed static website
     </footer>
 </body>
 </html>
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f8ff;
